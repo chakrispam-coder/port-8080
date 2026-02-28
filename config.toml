@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Port 8080 by Chakri"
+title = "Journey to the mysterious Port 8080"
 
 theme = "pastel-theme"
 publishDir = "docs"
