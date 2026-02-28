@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Journey to the mysterious Port 8080</title>
-    <link>//localhost:1313/posts/</link>
+    <link>//localhost:34777/posts/</link>
     <description>Recent content in Posts on Journey to the mysterious Port 8080</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Feb 2026 14:11:00 -0800</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:34777/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Third post</title>
-      <link>//localhost:1313/posts/third-post/</link>
+      <link>//localhost:34777/posts/third-post/</link>
       <pubDate>Sat, 28 Feb 2026 14:11:00 -0800</pubDate>
-      <guid>//localhost:1313/posts/third-post/</guid>
+      <guid>//localhost:34777/posts/third-post/</guid>
       <description>&lt;p&gt;testsetests&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deep in the Workshop</title>
-      <link>//localhost:1313/posts/second-adventure/</link>
+      <link>//localhost:34777/posts/second-adventure/</link>
       <pubDate>Fri, 27 Feb 2026 09:00:00 -0500</pubDate>
-      <guid>//localhost:1313/posts/second-adventure/</guid>
+      <guid>//localhost:34777/posts/second-adventure/</guid>
       <description>Spent the afternoon taking apart an old mechanism. There is something meditative about understanding how things click together — and the quiet satisfaction when they do again.</description>
     </item>
     <item>
       <title>First Adventure</title>
-      <link>//localhost:1313/posts/first-adventure/</link>
+      <link>//localhost:34777/posts/first-adventure/</link>
       <pubDate>Thu, 26 Feb 2026 10:00:00 -0500</pubDate>
-      <guid>//localhost:1313/posts/first-adventure/</guid>
+      <guid>//localhost:34777/posts/first-adventure/</guid>
       <description>Kicked off the first entry — a rough-around-the-edges start, but every good log has to begin somewhere. The CMS is live and the words are flowing.</description>
     </item>
     <item>
       <title>Reverse Proxy 101: Caddy vs Nginx vs Traefik</title>
-      <link>//localhost:1313/posts/reverse-proxy-101/</link>
+      <link>//localhost:34777/posts/reverse-proxy-101/</link>
       <pubDate>Sun, 15 Feb 2026 09:00:00 -0500</pubDate>
-      <guid>//localhost:1313/posts/reverse-proxy-101/</guid>
+      <guid>//localhost:34777/posts/reverse-proxy-101/</guid>
       <description>Ran all three in production over the past year. Caddy wins on simplicity and auto-HTTPS, Traefik wins for dynamic Docker routing, and Nginx wins when you need to search the error and actually find an answer.</description>
     </item>
     <item>
       <title>My Monitoring Stack: Prometheus, Grafana, and Sanity</title>
-      <link>//localhost:1313/posts/monitoring-stack/</link>
+      <link>//localhost:34777/posts/monitoring-stack/</link>
       <pubDate>Tue, 10 Feb 2026 14:00:00 -0500</pubDate>
-      <guid>//localhost:1313/posts/monitoring-stack/</guid>
+      <guid>//localhost:34777/posts/monitoring-stack/</guid>
       <description>Setting up Prometheus and Grafana felt like overkill for a homelab until the day my NAS ran out of disk at 3am and I did not know until morning. Now every service I run has a dashboard. Sleep quality improved.</description>
     </item>
   </channel>
