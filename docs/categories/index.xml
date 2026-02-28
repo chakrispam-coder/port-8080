@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Journey to the mysterious Port 8080</title>
-    <link>//localhost:34777/categories/</link>
+    <link>//localhost:33445/categories/</link>
     <description>Recent content in Categories on Journey to the mysterious Port 8080</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="//localhost:34777/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:33445/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

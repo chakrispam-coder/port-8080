@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:34777/posts/</loc>
+    <loc>//localhost:33445/posts/</loc>
     <lastmod>2026-02-28T14:11:00-08:00</lastmod>
   </url><url>
-    <loc>//localhost:34777/posts/third-post/</loc>
+    <loc>//localhost:33445/posts/third-post/</loc>
     <lastmod>2026-02-28T14:11:00-08:00</lastmod>
   </url><url>
-    <loc>//localhost:34777/</loc>
+    <loc>//localhost:33445/</loc>
     <lastmod>2026-02-28T14:11:00-08:00</lastmod>
   </url><url>
-    <loc>//localhost:34777/posts/second-adventure/</loc>
+    <loc>//localhost:33445/posts/second-adventure/</loc>
     <lastmod>2026-02-27T09:00:00-05:00</lastmod>
   </url><url>
-    <loc>//localhost:34777/posts/first-adventure/</loc>
+    <loc>//localhost:33445/posts/first-adventure/</loc>
     <lastmod>2026-02-26T10:00:00-05:00</lastmod>
   </url><url>
-    <loc>//localhost:34777/posts/reverse-proxy-101/</loc>
+    <loc>//localhost:33445/posts/reverse-proxy-101/</loc>
     <lastmod>2026-02-15T09:00:00-05:00</lastmod>
   </url><url>
-    <loc>//localhost:34777/posts/monitoring-stack/</loc>
+    <loc>//localhost:33445/posts/monitoring-stack/</loc>
     <lastmod>2026-02-10T14:00:00-05:00</lastmod>
   </url><url>
-    <loc>//localhost:34777/categories/</loc>
+    <loc>//localhost:33445/categories/</loc>
   </url><url>
-    <loc>//localhost:34777/tags/</loc>
+    <loc>//localhost:33445/tags/</loc>
   </url>
 </urlset>
