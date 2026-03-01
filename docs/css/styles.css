@@ -140,11 +140,14 @@ a {
 
 .site-title a {
   text-decoration: none;
-  color: var(--color-primary);
   font-family: var(--font-display);
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   letter-spacing: -0.01em;
+  background: var(--gradient-title);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }
 
 .site-description {
@@ -457,7 +460,7 @@ a {
 .page-intro {
   margin: 0 0 2rem;
   font-size: 1rem;
-  color: var(--color-muted);
+  color: var(--color-text);
 }
 
 /* Single post */
